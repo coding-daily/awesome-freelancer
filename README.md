@@ -7,9 +7,6 @@ Help Internet freelancers find a good job or part-time job.
 在中国这种社会主义社会体制下，我们很幸运还能保障自己的劳动权益，自由职业不是意味着失业，也不是肄业，只是选择了另一种适合自己的工作和生活方式。
 
 
-![](https://raw.githubusercontent.com/ckjbug/xiaokui/master/split.png)
-
-
 ### 互联网自由职业者和远程工作者
 
 你有没有想过有一天能在家工作，或者是边旅游边工作，成为了自由职业者，之前看过一篇报告是，预计在2020年，全球50%的互联网公司有30%的员工会实现远程工作。
