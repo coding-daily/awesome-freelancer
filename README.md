@@ -33,7 +33,13 @@ Help Internet freelancers find a good job or part-time job.
   
   <summary><b>相关链接</b></summary>
  
-- [remote-working](https://github.com/greatghoul/remote-working)
+- [remote-weekly | 已停更](https://github.com/greatghoul/remote-weekly) 
+- [本周末如何获得远程工作（终极指南）](https://www.ryrob.com/remote-job/)
+- [世界顶级开源软件工程师，他们如何谋利？](https://www.zhihu.com/question/27858574)
+- [国内目前独立开发者收入如何？可以养活自己以及家人吗？](https://www.zhihu.com/question/25050446)
+- [做技术的，如何找到一个远程办公的工作？](https://www.zhihu.com/question/52118159)
+
+
 
 **[⬆ Back to top](#table-of-contents)**
 
@@ -65,6 +71,8 @@ Help Internet freelancers find a good job or part-time job.
 
 🛠 [CuratedLists | 各种自由职业资源清单](https://github.com/prahladyeri/CuratedLists/blob/master/freelancingres.md)
 
+[remote-working-list | 寻求自由职业者的游牧工人的职位委员会和网站列表](https://github.com/georgemandis/remote-working-list) 
+[awesome-freelancer-taiwan | 台湾自由职业者资源,自在工作者在台湾的资源。](https://github.com/freelancer-tw/awesome-freelancer-taiwan)
 
 <br>
 <div align="center">
