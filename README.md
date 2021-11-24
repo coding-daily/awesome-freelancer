@@ -59,7 +59,7 @@ Help Internet freelancers find a good job or part-time job.
 
 👣 [remotelist | （广告远程工作的公司或工作板的精选列表）](https://github.com/raynesio/remotelist)
 
-💖 [TheRemoteFreelancer | 列出社区策划资源，为软件开发人员，网页设计师等寻找主题远程自由职业者和合同工作](https://github.com/engineerapart/TheRemoteFreelancerv)
+💖 [TheRemoteFreelancer | 列出社区策划资源，为软件开发人员，网页设计师等寻找主题远程自由职业者和合同工作](https://github.com/engineerapart/TheRemoteFreelancer)
 
 🕸 [chinese-independent-developer | 中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
 
